@@ -1,7 +1,4 @@
-"""
-Created on Dec 13, 2018
-@author: Yuedong Chen
-"""
+
 
 from data import create_dataloader
 from model import create_model
