@@ -1,7 +1,4 @@
-"""
-Created on Dec 13, 2018
-@author: Yuedong Chen
-"""
+
 
 from options import Options
 from solvers import create_solver
