@@ -6,10 +6,7 @@ from torch.optim import lr_scheduler
 from collections import OrderedDict
 
 
-'''
-Helper functions for model
-Borrow tons of code from https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/models/networks.py
-'''
+
 
 def get_norm_layer(norm_type='instance'):
     """Return a normalization layer
